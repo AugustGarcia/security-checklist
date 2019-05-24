@@ -34,6 +34,11 @@ export default {
         'https://techcrunch.com/2019/01/07/duckduckgo-browser-fingerprinting/',
     },
     {
+      name: '7+ Alternative Search Engines That Are Worth Checking Out',
+      url:
+        'https://www.256kilobytes.com/content/show/3004/search-no-further-7-search-engines-that-are-worth-checking-out',
+    },
+    {
       name: 'Everything Google knows about you',
       url: 'https://myactivity.google.com/myactivity',
     },
